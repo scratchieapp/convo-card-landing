@@ -29,7 +29,7 @@ const Testimonials = () => {
             </div>
             <p className="mb-4">"For the first time, our team is actually excited about safety reporting. Convo Card has transformed how we communicate on site—issues get resolved faster, and everyone feels heard."</p>
             <div className="flex items-center">
-              <img src="https://images.unsplash.com/photo-1494790108755-2616b612b47c?w=150&h=150&fit=crop&crop=face" alt="Site Manager" className="w-12 h-12 rounded-full mr-4" />
+              <img src="https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150&h=150&fit=crop&crop=face" alt="Site Manager" className="w-12 h-12 rounded-full mr-4" />
               <div>
                 <h4 className="font-bold">Sarah Thompson</h4>
                 <p className="text-gray-600">Site Manager, Richards Construction</p>
