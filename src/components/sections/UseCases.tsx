@@ -10,7 +10,7 @@ const UseCases = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           <div className="bg-white rounded-lg shadow-md overflow-hidden">
             <div className="h-48 bg-gray-200">
-              <img src="src/assets/images/industries/construction-worker.jpg" alt="Construction workers reviewing safety plans on site" className="w-full h-full object-cover object-top" />
+              <img src="/images/industries/construction-worker.jpg" alt="Construction workers reviewing safety plans on site" className="w-full h-full object-cover object-top" />
             </div>
             <div className="p-6">
               <div className="bg-orange-100 text-orange-800 text-sm font-bold uppercase py-1 px-2 rounded-full inline-block mb-2">Construction</div>
@@ -22,7 +22,7 @@ const UseCases = () => {
           
           <div className="bg-white rounded-lg shadow-md overflow-hidden">
             <div className="h-48 bg-gray-200">
-              <img src="src/assets/images/industries/restaurant-qsr-worker.jpg" alt="Professional chefs in commercial kitchen following safety protocols" className="w-full h-full object-cover object-top" />
+              <img src="/images/industries/restaurant-qsr-worker.jpg" alt="Professional chefs in commercial kitchen following safety protocols" className="w-full h-full object-cover object-top" />
             </div>
             <div className="p-6">
               <div className="bg-orange-100 text-orange-800 text-sm font-bold uppercase py-1 px-2 rounded-full inline-block mb-2">Quick Service Restaurant</div>
@@ -34,7 +34,7 @@ const UseCases = () => {
           
           <div className="bg-white rounded-lg shadow-md overflow-hidden">
             <div className="h-48 bg-gray-200">
-              <img src="src/assets/images/industries/logistics-worker-female.jpg" alt="Warehouse worker operating forklift with safety equipment" className="w-full h-full object-cover object-top" />
+              <img src="/images/industries/logistics-worker-female.jpg" alt="Warehouse worker operating forklift with safety equipment" className="w-full h-full object-cover object-top" />
             </div>
             <div className="p-6">
               <div className="bg-orange-100 text-orange-800 text-sm font-bold uppercase py-1 px-2 rounded-full inline-block mb-2">Logistics</div>
@@ -46,7 +46,7 @@ const UseCases = () => {
           
           <div className="bg-white rounded-lg shadow-md overflow-hidden">
             <div className="h-48 bg-gray-200">
-              <img src="src/assets/images/industries/mining-workers.jpg" alt="Mining workers in safety gear with heavy equipment" className="w-full h-full object-cover object-top" />
+              <img src="/images/industries/mining-workers.jpg" alt="Mining workers in safety gear with heavy equipment" className="w-full h-full object-cover object-top" />
             </div>
             <div className="p-6">
               <div className="bg-orange-100 text-orange-800 text-sm font-bold uppercase py-1 px-2 rounded-full inline-block mb-2">Mining</div>

@@ -26,14 +26,14 @@ const Solution = () => {
                 ref={videoRef}
                 controls={isPlaying}
                 preload="none"
-                poster="src/assets/images/Rewarded.png"
+                poster="/images/Rewarded.png"
                 className="rounded-lg shadow-xl w-1/2 mx-auto bg-gray-100"
                 style={{ aspectRatio: '9/16' }}
                 playsInline
                 muted
                 onPlay={() => setIsPlaying(true)}
               >
-                <source src="src/assets/images/convo-card-example-compressed.mp4" type="video/mp4" />
+                <source src="/images/convo-card-example-compressed.mp4" type="video/mp4" />
                 Your browser doesn't support video playback.
               </video>
               {!isPlaying && (
